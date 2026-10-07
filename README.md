@@ -22,4 +22,4 @@
 
 </body>
 
-</html>     Bunu GitHub to site yapmak için kullandim
+</html>
